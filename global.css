@@ -1,0 +1,57 @@
+:root {
+    /* fonts */
+    --font-plus-jakarta-sans: "Plus Jakarta Sans";
+    --font-poppins: Poppins;
+    --h1: Manrope;
+  
+    /* font sizes */
+    --font-size-2xs: 10px;
+    --font-size-xs: 14px;
+    --font-size-sm: 16px;
+    --bold-18-btn-size: 18px;
+    --font-size-lg: 20px;
+    --font-size-xl: 28px;
+    --h2-size: 50px;
+    --h1-size: 60px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-dimgray-100: #6a6969;
+    --color-dimgray-200: #565656;
+    --color-black: #000;
+    --orange: #fc7f09;
+    --color-darkorange-200: #ff7c00;
+    --color-gray-100: #797979;
+    --color-darkslategray-100: #343434;
+    --color-darkslategray-200: #323232;
+    --blue: #4263eb;
+    --color-midnightblue: #0a043c;
+  
+    /* Gaps */
+    --gap-5xs: 3px;
+    --gap-4xs: 4px;
+    --gap-3xs: 7px;
+    --gap-2xs: 10px;
+    --gap-xs: 11px;
+    --gap-sm: 14px;
+    --gap-md: 20px;
+    --gap-lg: 25px;
+    --gap-xl: 30px;
+    --gap-2xl: 40px;
+    --gap-3xl: 60px;
+    --gap-4xl: 100px;
+  
+    /* Paddings */
+    --padding-xs: 10px;
+    --padding-sm: 14px;
+    --padding-md: 20px;
+    --padding-lg: 40px;
+  
+    /* border radiuses */
+    --br-xs: 4px;
+    --br-sm: 14px;
+    --br-md: 18px;
+    --br-lg: 36px;
+    --br-xl: 50px;
+}
+  
